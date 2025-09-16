@@ -45,7 +45,7 @@
     <g transform="translate(0,170)">
       <text x="50%" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#c94b8a">Hello Kitty — Fan README</text>
       <text x="50%" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7a7a7a">
-        <tspan>Um README animado estilo fofo — by Borgesza 💖</tspan>
+        <tspan>
       </text>
     </g>
   </svg>
