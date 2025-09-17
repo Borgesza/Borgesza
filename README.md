@@ -8,7 +8,7 @@ apaixonada por tecnologia e desenvolvimento de projetos que fazem a diferença.
 ----
 
 * 👩‍💻 Cursando Análise e desenvolvimento de sistemas UNICSUL
-•📚 Estudando Python
+* 📚 Estudando Python
 * 🐾 Sou voluntária em feiras de adoção de animais, porque acredito em cuidar e transformar vidas.
 
 
