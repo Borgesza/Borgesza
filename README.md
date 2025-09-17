@@ -15,3 +15,5 @@ apaixonada por tecnologia e desenvolvimento de projetos que fazem a diferença.
 Sempre explorando novas tecnologias e linguagens de programação.
 Em busca de aprender, criar e colaborar em projetos inovadores.
 
+Linkedln: https://www.linkedin.com/in/aline-borges-22937627b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
