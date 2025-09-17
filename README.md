@@ -1,11 +1,16 @@
-### Olá, eu sou Aline✨
-Sou apaixonada por tecnologia, e em animais 🐾
+###🌸Olá! Sou Aline, apaixonada por tecnologia e desenvolvimento de projetos que fazem a diferença.
 
+ 
+* 👩‍💻 Cursando Análise e desenvolvimento de sistemas UNICSUL
+•📚 Estudando Python
+* 🐾 Sou voluntária em feiras de adoção de animais, porque acredito em cuidar e transformar vidas.
 
-Aqui você encontra meus projetos e aprendizados 🚀
 
 ![Hello Kitty](https://i.imgur.com/7JmyAil.gif)
 
 ----
 
-## 🌸 Conecte-se comigo
+
+Sempre explorando novas tecnologias e linguagens de programação.
+Sempre em busca de aprender, criar e colaborar em projetos inovadores.
+
