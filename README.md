@@ -1,6 +1,6 @@
 ### Olá! Bem-vindo(a) ao meu perfil do GitHub 👋
 
-![Hello Kitty](https://pin.it/7pcpsR2ZC)
+![Hello Kitty]([https://pin.it/7pcpsR2ZC](https://imgur.com/gallery/transparent-cinnamoroll-wkPObzZ#7JmyAil))
 
 ----
 # Olá, eu sou Aline✨
