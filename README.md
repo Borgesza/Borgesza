@@ -45,7 +45,8 @@
     <g transform="translate(0,170)">
       <text x="50%" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#c94b8a">Hello Kitty — Fan README</text>
       <text x="50%" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7a7a7a">
-        <tspan>
+        <tspan>Olá, eu sou Aline✨\nSou apaixonada por tecnologia, voluntária em feiras de adoção de animais 🐶🐱\nAqui você encontra meus projetos e aprendizados 🚀
+          ![Texto alternativo para o GIF] (blob:https://web.whatsapp.com/b7ca15c9-211b-485e-937b-94bd90a13227)
       </text>
     </g>
   </svg>
